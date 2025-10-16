@@ -1,0 +1,4 @@
+audio-separator
+whisper
+openai
+opencv-python

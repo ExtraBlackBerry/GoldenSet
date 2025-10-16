@@ -1,0 +1,94 @@
+{
+    "transcript": " Cooking the perfect steak is not always easy, but if you follow these tips I learned at culinary school, it'll be a whole lot easier. Today I'm using a beautiful thick cut New York strip. If you like it medium rare, the thicker the better. Next, give it a generous coating of salt and pepper all over from high above. Grab a good pan, get it nice and hot, then add some neutral oil and add the steak back cap down. Once the fat is rendered, rotate it onto its side. To get a beautiful even sear, apply some gentle even pressure. After a few minutes, take a peek and flip when it's a deep golden brown. Immediately add a knob of butter and some aromatics and begin basting the steak. To finish cooking it, transfer it into a 375 degree oven for five minutes or so. In the meantime, use the pan drippings to make a quick red wine pan sauce by sauteing some shallots, deglazing with red wine and once it's out, add some stock and reduce by 75%. Finish it off with cold butter and most importantly, rest the steak a few minutes so the juices don't run. Then you're ready to slice, admire the beautiful cook and plate and enjoy your steak.",
+    "objects": [
+        "tongs",
+        "steak",
+        "pan",
+        "stovetop",
+        "spoon",
+        "garlic",
+        "liquid",
+        "rosemary",
+        "tray",
+        "knife",
+        "hand",
+        "cutting board",
+        "plate",
+        "sauce",
+        "person",
+        "apron",
+        "countertop",
+        "stove",
+        "cabinet",
+        "knife block",
+        "cabinets",
+        "salt shaker",
+        "utensil holder",
+        "light fixture",
+        "shirt",
+        "necklace",
+        "ring",
+        "pot",
+        "butter",
+        "herb",
+        "knobs",
+        "drawer",
+        "picture frame",
+        "oven rack",
+        "bowl",
+        "carrot",
+        "shallot",
+        "onion",
+        "bottle",
+        "cup",
+        "burner",
+        "oven",
+        "rack",
+        "baking tray",
+        "glove",
+        "jars"
+    ],
+    "sentiment": "The sentiment of the text is Positive. This classification is based on the enthusiastic and encouraging tone used to provide tips for cooking a steak. The text is instructional and aims to make the process enjoyable by sharing expert tips learned at culinary school. Words like \"beautiful,\" \"generous,\" \"nice and hot,\" \"beautiful even sear,\" and \"admire\" convey a sense of enthusiasm and positivity about the cooking process and the expected outcome. Additionally, the text focuses on the enjoyment of the end product, suggesting a positive experience.",
+    "qa_pairs": [
+        {
+            "question": "What type of steak is used in the video?",
+            "answer": "A thick cut New York strip."
+        },
+        {
+            "question": "How should the steak be seasoned before cooking?",
+            "answer": "It should be given a generous coating of salt and pepper all over from high above."
+        },
+        {
+            "question": "What type of oil is suggested for searing the steak?",
+            "answer": "A neutral oil."
+        },
+        {
+            "question": "At what point should the steak be transferred to the oven?",
+            "answer": "After the steak has been seared to a deep golden brown and basted with butter and aromatics."
+        },
+        {
+            "question": "What temperature should the oven be set to for finishing the steak?",
+            "answer": "375 degrees."
+        },
+        {
+            "question": "How do you make the red wine pan sauce?",
+            "answer": "Use the pan drippings, sauté shallots, deglaze with red wine, add stock, reduce by 75%, and finish with cold butter."
+        },
+        {
+            "question": "Why is it important to let the steak rest after cooking?",
+            "answer": "To ensure the juices don't run and the steak remains juicy."
+        },
+        {
+            "question": "What tools and utensils are used during the cooking process?",
+            "answer": "Tongs, pan, stove, spoon, knife, cutting board, and plate."
+        },
+        {
+            "question": "What is the purpose of applying pressure to the steak while searing?",
+            "answer": "To get a beautiful, even sear."
+        },
+        {
+            "question": "What aromatics are used for basting the steak?",
+            "answer": "The specific aromatics are not mentioned in the transcript, but commonly used aromatics include garlic and herb like rosemary."
+        }
+    ]
+}
